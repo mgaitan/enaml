@@ -10,7 +10,7 @@ multiple operating systems (Windows, OSX, Linux).
 
 Other great Enaml features include
 
-    1) Declarative UI specification langauge that is a strict superset of Python
+    1) Declarative UI specification language that is a strict superset of Python
     2) Architecture design which encourages Model View separation
     3) Subscription based operators which allow state and events to freely flow between models and views
     4) Ability to easily subclass widgets to override functionality of builtin widgets
